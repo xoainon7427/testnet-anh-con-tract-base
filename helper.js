@@ -12,6 +12,4 @@ int main() {
     // std::endl: Ký tự xuống dòng và làm sạch bộ nhớ đệm (buffer)
     std::cout << "Hello from C++!" << std::endl;
 
-    // Trả về giá trị 0 cho hệ điều hành để báo hiệu rằng chương trình đã kết thúc thành công
-    return 0;
 }
