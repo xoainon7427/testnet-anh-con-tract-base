@@ -2,3 +2,15 @@
 echo "Starting deployment process..."
 git status
 echo "All files are ready."
+#!/bin/bash
+# Dòng trên gọi là Shebang, thông báo cho hệ điều hành sử dụng trình thông dịch Bash để chạy file này.
+
+# Hiển thị thông báo bắt đầu quá trình triển khai (deployment) ra màn hình
+echo "Starting deployment process..."
+
+# Kiểm tra trạng thái hiện tại của kho mã nguồn (Git repository)
+# Lệnh này giúp xem có file nào chưa được lưu (commit) hoặc có thay đổi nào mới không
+git status
+
+# Hiển thị thông báo hoàn tất quá trình kiểm tra, sẵn sàng cho các bước tiếp theo
+echo "All files are ready."
