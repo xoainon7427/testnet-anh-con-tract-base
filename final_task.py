@@ -11,9 +11,6 @@ interface User {
 }
 
 // Khởi tạo một biến hằng (const) có tên là newUser
-// Biến này được chỉ định kiểu dữ liệu là interface User đã định nghĩa ở trên
-const newUser: User = { 
-    id: 1, 
-    name: "Admin" 
+
 };
 
