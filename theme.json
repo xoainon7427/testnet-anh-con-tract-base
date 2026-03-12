@@ -1,1 +1,5 @@
-
+CREATE TABLE users (
+    id INT PRIMARY KEY,
+    username VARCHAR(50),
+    created_at TIMESTAMP
+);
