@@ -10,4 +10,4 @@ server:
 
 # Cấu hình kết nối tới cơ sở dữ liệu (Database)
 database:
-  connection: localhost     # Địa chỉ máy chủ database (localhost nghĩa là database nằm ngay trên cùng máy này)
+
