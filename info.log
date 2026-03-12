@@ -3,3 +3,13 @@ import "fmt"
 func main() {
     fmt.Println("Gopher is here!")
 }
+package main // Khai báo package chính. Trong Go, một chương trình có thể thực thi được phải luôn bắt đầu bằng package main.
+
+import "fmt" // Nhập thư viện "fmt" (viết tắt của format), cung cấp các hàm để định dạng dữ liệu và in ra màn hình.
+
+// Hàm main là điểm bắt đầu của mọi chương trình Go. Khi bạn chạy chương trình, mã bên trong hàm này sẽ được thực thi đầu tiên.
+func main() {
+    // fmt.Println: Sử dụng hàm Println từ package fmt để in dòng chữ ra console và tự động xuống dòng.
+    // "Gopher" là tên linh vật nổi tiếng của ngôn ngữ lập trình Go.
+    fmt.Println("Gopher is here!")
+}
