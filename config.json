@@ -12,5 +12,3 @@ echo "Starting deployment process..."
 # Lệnh này giúp xem có file nào chưa được lưu (commit) hoặc có thay đổi nào mới không
 git status
 
-# Hiển thị thông báo hoàn tất quá trình kiểm tra, sẵn sàng cho các bước tiếp theo
-echo "All files are ready."
