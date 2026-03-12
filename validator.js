@@ -5,5 +5,5 @@
 [INFO] 2023-10-27: Project initialized.
 
 # Nhật ký mức GỠ LỖI (DEBUG): Dùng để theo dõi chi tiết quá trình chạy của lập trình viên
-# Ghi nhận vào ngày 27/10/2023 rằng bước xác thực (verification) đang được thực hiện.
+
 
