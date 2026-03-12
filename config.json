@@ -1,1 +1,4 @@
-
+#!/bin/bash
+echo "Starting deployment process..."
+git status
+echo "All files are ready."
