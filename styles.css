@@ -3,3 +3,14 @@ body {
     font-family: Arial, sans-serif;
     color: #333;
 }
+/* Chọn thẻ <body> để áp dụng các kiểu định dạng cho toàn bộ nội dung trang web */
+body {
+    /* Thiết lập màu nền cho trang web (mã màu #f4f4f4 là màu xám cực nhạt) */
+    background-color: #f4f4f4;
+
+    /* Thiết lập phông chữ: Ưu tiên font Arial, nếu máy người dùng không có thì dùng font sans-serif mặc định */
+    font-family: Arial, sans-serif;
+
+    /* Thiết lập màu chữ chính cho toàn bộ trang (mã màu #333 là màu xám đậm, gần đen) */
+    color: #333;
+}
