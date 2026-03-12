@@ -11,5 +11,4 @@ def get_current_time():
     # Giá trị trả về bao gồm: Năm, tháng, ngày, giờ, phút, giây và phần triệu giây (microsecond)
     return datetime.datetime.now()
 
-# Gọi hàm get_current_time() để lấy kết quả và in ra màn hình console cùng với thông báo
-print("Current time:", get_current_time())
+
