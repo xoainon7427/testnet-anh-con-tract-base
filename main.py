@@ -13,5 +13,4 @@ def greet(name):
     return f"Hello, {name}!"
 
 # Gọi hàm greet và truyền vào giá trị là "Developer"
-# Sau đó in kết quả mà hàm trả về ra màn hình
 print(greet("Developer"))
