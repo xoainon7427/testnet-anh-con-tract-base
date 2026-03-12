@@ -17,5 +17,5 @@ services:
 
     # Cấu hình ánh xạ cổng (port mapping)
     ports:
-      # "Cổng_Máy_Host : Cổng_Container"
+  
 
