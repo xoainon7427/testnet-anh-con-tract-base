@@ -18,5 +18,4 @@ services:
     # Cấu hình ánh xạ cổng (port mapping)
     ports:
       # "Cổng_Máy_Host : Cổng_Container"
-      # Người dùng truy cập vào cổng 80 của máy tính sẽ được dẫn vào cổng 80 bên trong container
-      - "80:80"
+
