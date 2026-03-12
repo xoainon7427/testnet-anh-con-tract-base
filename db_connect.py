@@ -8,5 +8,4 @@ def say_hi
   puts "Hello from Ruby script!"
 end
 
-# Gọi hàm say_hi để thực thi các câu lệnh bên trong nó
-say_hi
+
