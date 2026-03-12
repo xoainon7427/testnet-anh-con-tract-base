@@ -13,6 +13,5 @@ CREATE TABLE users (
     -- Dùng để lưu tên đăng nhập của người dùng
     username VARCHAR(50),
 
-    -- Cột 'created_at': Kiểu dữ liệu thời gian (TIMESTAMP)
- AMP
+    
 );
