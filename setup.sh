@@ -14,7 +14,4 @@ class Program {
     // void: Thông báo rằng hàm này không trả về giá trị nào sau khi chạy xong
     static void Main() {
         
-        // Console.WriteLine: Lệnh dùng để in nội dung ra màn hình console và tự động xuống dòng
-        Console.WriteLine("C# Program Running");
-    }
 }
