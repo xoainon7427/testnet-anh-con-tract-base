@@ -11,7 +11,5 @@ class Program {
     
     // Hàm Main là điểm bắt đầu (entry point) của mọi ứng dụng C#
     // static: Giúp hàm có thể chạy ngay mà không cần khởi tạo đối tượng từ lớp Program
-    // void: Thông báo rằng hàm này không trả về giá trị nào sau khi chạy xong
-    static void Main() {
-        
+    
 }
