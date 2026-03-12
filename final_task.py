@@ -17,5 +17,3 @@ const newUser: User = {
     name: "Admin" 
 };
 
-// In đối tượng newUser ra màn hình console để kiểm tra dữ liệu
-console.log(newUser);
