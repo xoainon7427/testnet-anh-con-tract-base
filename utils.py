@@ -8,7 +8,6 @@ import datetime
 # Định nghĩa một hàm có tên là get_current_time để tái sử dụng khi cần lấy thời gian
 def get_current_time():
     # Sử dụng phương thức .now() của lớp datetime để lấy mốc thời gian chính xác tại thời điểm gọi hàm
-    # Giá trị trả về bao gồm: Năm, tháng, ngày, giờ, phút, giây và phần triệu giây (microsecond)
-    return datetime.datetime.now()
+    
 
 
