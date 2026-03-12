@@ -1,1 +1,6 @@
-
+{
+  "project_name": "GitHub 50 Commits",
+  "status": "In Progress",
+  "commits_goal": 50,
+  "author": "GitHub User"
+}
