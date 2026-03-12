@@ -15,6 +15,4 @@ public class Main {
     public static void main(String[] args) {
         
         // System.out.println: Lệnh tiêu chuẩn để in dữ liệu ra màn hình console và xuống dòng
-        System.out.println("Java execution started...");
-    }
-}
+
