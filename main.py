@@ -12,5 +12,4 @@ def greet(name):
     # f-string giúp chèn trực tiếp giá trị của biến {name} vào trong nội dung văn bản
     return f"Hello, {name}!"
 
-# Gọi hàm greet và truyền vào giá trị là "Developer"
-print(greet("Developer"))
+
