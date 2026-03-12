@@ -3,3 +3,17 @@ CREATE TABLE users (
     username VARCHAR(50),
     created_at TIMESTAMP
 );
+-- Lệnh khởi tạo một bảng mới có tên là 'users' (người dùng)
+CREATE TABLE users (
+    -- Cột 'id': Kiểu số nguyên (INT), đặt làm Khóa chính (PRIMARY KEY)
+    -- Khóa chính giúp đảm bảo mỗi người dùng có một mã định danh duy nhất và không bị trùng lặp
+    id INT PRIMARY KEY,
+
+    -- Cột 'username': Kiểu chuỗi ký tự biến đổi (VARCHAR) với độ dài tối đa là 50 ký tự
+    -- Dùng để lưu tên đăng nhập của người dùng
+    username VARCHAR(50),
+
+    -- Cột 'created_at': Kiểu dữ liệu thời gian (TIMESTAMP)
+    -- Dùng để lưu mốc thời gian (ngày, giờ, phút, giây) khi bản ghi này được tạo ra
+    created_at TIMESTAMP
+);
