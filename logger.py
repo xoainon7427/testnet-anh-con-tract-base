@@ -6,5 +6,4 @@ fn main() {
 fn main() {
     // println! là một "macro" (nhận biết qua dấu chấm than '!') 
     // Nó được dùng để in văn bản ra màn hình console và tự động xuống dòng
-    println!("Hello, world from Rust!");
 }
