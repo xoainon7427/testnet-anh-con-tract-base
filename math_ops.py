@@ -14,5 +14,4 @@ public class Main {
     // String[] args: Mảng các tham số truyền vào từ dòng lệnh (nếu có)
     public static void main(String[] args) {
         
-        // System.out.println: Lệnh tiêu chuẩn để in dữ liệu ra màn hình console và xuống dòng
-
+     
