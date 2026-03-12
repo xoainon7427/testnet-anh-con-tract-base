@@ -8,5 +8,4 @@
   "project_name": "GitHub 50 Commits", // Tên của dự án
   "status": "In Progress",             // Trạng thái hiện tại (đang thực hiện)
   "commits_goal": 50,                  // Mục tiêu số lượng commit cần đạt được
-  "author": "GitHub User"              // Tên của tác giả hoặc người sở hữu dự án
 }
